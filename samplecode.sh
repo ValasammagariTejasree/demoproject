@@ -1,2 +1,2 @@
 echo "welcome to the demo project"
-echo "new line added"
+echo "welcome to demo project and get started"
